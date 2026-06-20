@@ -1,5 +1,5 @@
 <AnimatedActor>
-	<Info CreatedBy="Unknown" CreatedOn="5/30/2026 2:26:58 AM" Version="61" Fps="30"/>
+	<Info CreatedBy="River2380" CreatedOn="5/30/2026 2:26:58 AM" Version="61" Fps="30"/>
 	<Content>
 		<Spritesheets>
 			<Spritesheet Path="menu Lazyworm.png" Id="0"/>
