@@ -1,0 +1,32 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Lazyworm"
+        skin="character_lworm.png"
+        nameimage="playername_lworm.png"
+        hp="4"
+        black="2"
+        keys="1"
+        speedmodifier="-0.50"
+        luckmodifier="5"
+        damagemodifier="1"
+        innatetrinkets="66,10"
+        items="Edible D6"
+        portrait="playerportrait_lworm.png"
+        skinColor="0"
+        costume="104"
+    />
+
+    <player name="Lazyworm"
+        skin="character_lworm_b.png"
+        nameimage="playername_lworm.png"
+        hp="2"
+        innatetrinkets="66, 18, 46"
+        speedmodifier="-0.50"
+        luckmodifier="-5"
+        card="18"
+        portrait="playerportrait_lworm_b.png"
+        skinColor="0"
+        bSkinParent="Lazyworm"
+        costumeSuffix="Lworm_b"
+        costume="104"
+    />
+</players>

@@ -1,0 +1,10 @@
+<items gfxroot="gfx/items/" version="1">
+    <active name="Edible D6"
+            gfx="edible_dice.png"
+            description="Reroll, or eat, your destiny."
+            quality="4"
+            craftquality="4"
+            maxcharges="4"
+            tags="offensive"
+            chargetype="normal"/>
+</items>
